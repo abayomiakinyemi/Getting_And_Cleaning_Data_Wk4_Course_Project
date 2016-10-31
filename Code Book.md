@@ -1,4 +1,4 @@
- # CODE BOOK
+# CODE BOOK
 
 This code book is prepared as part of the Course Project for "Getting and Cleaning Data" - a course in the Data Science Specializationby Johns Hopkins University on Coursera
 
@@ -18,7 +18,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The dataset includes the following files (as described in 'README.txt' included in the dataset):
 
  - 'README.txt': Gives the description of the files and data available in the dataset
-  - 'features_info.txt': Shows variables information used on the features variable -'features.txt': Shows a list of all features.
+ - 'features_info.txt': Shows variables information used on the features variable 
+ - 'features.txt': Shows a list of all features.
  - 'activity_labels.txt': Links the class labels with their activity name.
  - 'train/X_train.txt': Training set.
  - 'train/y_train.txt': Training labels.
